@@ -11,3 +11,6 @@ export const db = new Pool({
   database: process.env.DB_NAME || "postgres",
 });
  
+//banco criado via docker
+//Docker PostgresSql
+//docker run --name docker-postgres -e POSTGRES_PASSWORD=root -p 5432:5432 -d postgres
