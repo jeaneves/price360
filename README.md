@@ -13,3 +13,6 @@ src/
 │   └── hash.ts
 ├── index.ts
 ├── config.ts
+---------------------------------------------------------------------------------------------
+git branch nome_branc (para criar uma branch)
+git checkout nome_branch (para entrar na branch)
